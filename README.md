@@ -41,4 +41,5 @@ order by sum(OrderDetails.Quantity) DESC;
 
 <b> This statement tells us the the most ordered product in Germany was Camembert Pierrot and Nord-Ost Matjeshering with 12000 total orders each. <b>
   
+<b><i> The IPYNB file contains the code for AOV problem<i><b>
 
